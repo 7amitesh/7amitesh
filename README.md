@@ -21,6 +21,6 @@
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.20rem;"><a href="https://www.buymeacoffee.com/7amitesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="75"/></a></li>
+<li style="display: inline-block; margin-right: 0.10rem;"><a href="https://www.buymeacoffee.com/7amitesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="75"/></a></li>
 
 </ul>
