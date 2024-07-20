@@ -17,11 +17,7 @@ I am currently pursuing my undergraduate degree in Computer Science, specializin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/7amitesh"><img src="https://github-readme-stats.vercel.app/api?username=7amitesh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="7amitesh's GitHub stats" /></a>
-
-<a href="http://www.github.com/7amitesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7amitesh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/7amitesh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amitesh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/7amitesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7amitesh&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
