@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Amitesh
 ===============================================================================================================================
 
-I am currently pursuing my undergraduate degree in Computer Science, specializing in Machine Learning. My studies are deeply focused on applying advanced algorithms and data analysis techniques to solve real-world problems and drive innovation.
+ Computer Science student, specializing in Machine Learning. Deeply focused on applying advanced algorithms and data analysis techniques to solve real-world problems and drive innovation.
 
 *   🧠  I'm currently learning TypeScript, Swift, kotalin, Tensorflow
 *   🤝  I'm open to collaborating on exciting projects
