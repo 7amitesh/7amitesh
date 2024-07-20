@@ -1,5 +1,5 @@
- 👋🏼  Hi there! I'm Amitesh
-===============================================================================================================================
+ ## 👋🏼 Hi I'm Amitesh
+
 
  Computer Science student, specializing in Machine Learning. Deeply focused on applying advanced algorithms and data analysis techniques to solve real-world problems and drive innovation.
 
