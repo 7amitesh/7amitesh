@@ -5,7 +5,7 @@
 
 *   🧠  I'm currently learning TypeScript, Swift, kotalin, Tensorflow
 *   🤝  I'm open to collaborating on exciting projects
-*   ⚡  Fun Fact: I’m secretly Spiderman... but keep it between us!
+  
 
 ### Skills
 
